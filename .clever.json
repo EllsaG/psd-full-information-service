@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_478247c5-6ab5-4bf5-8db4-f7de10ebbe9c",
+      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_478247c5-6ab5-4bf5-8db4-f7de10ebbe9c.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_478247c5-6ab5-4bf5-8db4-f7de10ebbe9c.git",
+      "name": "psd-full-iformation-service",
+      "alias": "psd-full-iformation-service"
+    }
+  ]
+}
