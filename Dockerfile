@@ -20,5 +20,5 @@ ENV JAR_NAME=psd-full-information-service-0.0.1-SNAPSHOT.jar
 ENV APP_HOME=/usr/app/
 WORKDIR $APP_HOME
 COPY --from=BUILD $APP_HOME/build/libs/$JAR_NAME .
-EXPOSE 8011
+EXPOSE 8022
 ENTRYPOINT exec java -jar ${JAR_NAME}
